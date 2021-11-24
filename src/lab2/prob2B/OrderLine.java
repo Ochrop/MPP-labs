@@ -1,4 +1,4 @@
-package com.company.lab2.prob2B;
+package lab2.prob2B;
 
 public class OrderLine {
     private int lineNum;
