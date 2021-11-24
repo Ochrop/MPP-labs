@@ -1,1 +1,1 @@
-# MPP-labs by Ochirtulga
+# MPP-labs 
